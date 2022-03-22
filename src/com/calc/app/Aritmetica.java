@@ -5,7 +5,7 @@ import com.calc.model.Entero;
 import com.calc.model.Numero;
 
 public class Aritmetica {
-	
+	//ESTO ES EL COMMIT NUMERO 2
 	/**
 	 * Esta es la clase Aritmética en la cual tenemos tanto su constructor como varios metodos.
 	 */
